@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0fa6e78e_df9be34c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019719
+      },
+      "writtenOn": "2022-02-04T07:09:00Z",
+      "side": 1,
+      "message": "Got your changes and new project is added",
+      "revId": "775ce27bf00695dd0215a07819414119a6d30151",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
